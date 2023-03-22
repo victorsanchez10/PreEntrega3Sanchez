@@ -1,0 +1,22 @@
+header {
+    width: 100%;
+    .mine-icon {
+        border-radius: 50%;
+    }
+    .mine-navbar {
+        background-color: #1789FC;
+        font-size: large;
+    a {
+        text-decoration: none;
+                        &:hover {
+                            text-decoration: solid;
+            }
+        }
+    }
+}
+
+h1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}

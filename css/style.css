@@ -1,0 +1,103 @@
+header {
+  width: 100%;
+}
+header .mine-icon {
+  border-radius: 50%;
+}
+header .mine-navbar {
+  background-color: #1789FC;
+  font-size: large;
+}
+header .mine-navbar a {
+  text-decoration: none;
+}
+header .mine-navbar a:hover {
+  text-decoration: solid;
+}
+
+h1 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+body {
+  background-color: rgb(75, 167, 224);
+}
+
+main p {
+  margin: 20px;
+  padding: 10px;
+  font-size: 20px;
+  font-weight: 400;
+  font-family: palatino, Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 500;
+  padding: 10px;
+  margin: 10px;
+}
+
+h2 {
+  display: flex;
+  justify-content: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding: 10px;
+  margin: 10px;
+}
+
+article p {
+  margin: 20px;
+  padding: 10px;
+  font-size: 18px;
+  font-weight: 400;
+  font-family: palatino, Arial, Helvetica, sans-serif;
+}
+
+img {
+  margin: 10px;
+  padding: 10px;
+}
+
+ul li {
+  margin: 20px;
+  padding: 10px;
+  font-size: 18px;
+  font-weight: 400;
+  font-family: palatino, Arial, Helvetica, sans-serif;
+}
+ul li ul {
+  margin: 20px;
+  padding: 10px;
+  font-size: 18px;
+  font-weight: 400;
+  font-family: palatino, Arial, Helvetica, sans-serif;
+}
+
+footer {
+  background-color: #1789FC;
+  margin: 20px;
+  padding: 10px;
+  border: solid 1px;
+  border-color: black;
+}
+
+h2 {
+  display: flex;
+  justify-content: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+  margin: 20px;
+  padding: 10px;
+  font-size: 18px;
+  font-weight: 400;
+  font-family: palatino, Arial, Helvetica, sans-serif;
+}
+
+/*# sourceMappingURL=style.css.map */
